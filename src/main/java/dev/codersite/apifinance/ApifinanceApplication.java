@@ -8,7 +8,8 @@ public class ApifinanceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApifinanceApplication.class, args);
-		System.out.println("Hola Berlin!");
+		System.out.println("Hola APIFinance!");
 	}
 
 }
+ 
