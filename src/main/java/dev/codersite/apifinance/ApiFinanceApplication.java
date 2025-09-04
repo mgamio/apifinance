@@ -4,11 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApifinanceApplication {
+public class ApiFinanceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApifinanceApplication.class, args);
-		System.out.println("Hola Berlin!");
+		SpringApplication.run(ApiFinanceApplication.class, args);
+		System.out.println("Hola APIFinance!");
 	}
 
 }
+ 
