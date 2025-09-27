@@ -3,6 +3,7 @@
 **Chapters:**
 
 1. Designing the Finance API with Swagger and OpenAPI
+
    Swagger editor: https://app.swaggerhub.com/apis/MGAMIO/apifinance/v1
 
 3. Swagger Codegen: Moving from design to API development
